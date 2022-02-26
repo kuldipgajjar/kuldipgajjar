@@ -16,6 +16,7 @@ Skills: Ethical Hacking / API Penetration Testing / Web & Mobile Penetration Tes
 - 🔭 I’m currently working on Cloud Security Project 
 - 🌱 I’m currently learning Cloud Security Flow 
 
+https://emotionbadge.onrender.com/emotion/kuldipgajjar/<emotion>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kuldipgajjar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/gajjarkuldip)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kuldipgajjar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/gajjar_kuldip//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/_Gajjar_Kuldip)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://gajjarkuldip.azurewebsites.net/)  
 
