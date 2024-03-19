@@ -26,10 +26,4 @@ https://emotionbadge.onrender.com/emotion/kuldipgajjar/<emotion>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuldipgajjar&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kuldipgajjar)  
-
-![GitHub metrics](https://metrics.lecoq.io/kuldipgajjar)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kuldipgajjar)  
-
-![Profile views](https://gpvc.arturio.dev/kuldipgajjar)  
