@@ -1,22 +1,18 @@
-### Hi there 👋, I am Kuldip Suthar. Here a little about me :)
+### Hi there 👋, I'm Kuldip Suthar. Here a little about me :)
 #### Cloud Security Engineer In Sarjen System Pvt. Ltd. 
 ![Cloud Security Engineer In Sarjen System Pvt. Ltd. ](https://svg-banners.vercel.app/api?type=glitch&text1=KULDIP%20SUTHAR🐱‍👤&width=900&height=400)
 
-I am a Cyber Security Researcher and a Hacker with an Ethical mindset. I am having experience in
-Web-app security, Mobile app security, API security, Vulnerability Assessment & Penetration Testing.
-I am experienced with tools like burp suite, acunetix, Nessus, IBM AppScan, Nmap, Pentest tools,
-Frida, Drozer and of course with Kali Linux & some GitHub open source tools like Amass,
-Aquatone etc. many more for finding the vulnerabilities in the web application and mobile
-application. Now what type of vulnerabilities I have found frequently will be account takeover,
-injections, privilege escalation, series of vulnerabilities leading to account takeover, LFI, XSS, OWASP
-Top 10, etc...
+I'm a DevSecOps professional with a strong background in securing cloud and software environments. My expertise spans across various tools and technologies to ensure robust security measures.
 
-Skills: Ethical Hacking / API Penetration Testing / Web & Mobile Penetration Testing / VAPT / Python & Bash / Basic : PHP , HTML , CSS , JAVASCRIPT , C++ / Security Tools - Burp Suite, Nmap, Metasploit, Sqlmap & Others
+💼 Current Role & Expertise:
+DevSecOps Engineer: Specializing in integrating security practices into DevOps workflows.
+Tools & Technologies: GitHub, Jenkins, Docker, Terraform, Kubernetes, GitLab, Ansible.
+Security Testing: Proficient in using Burp Suite for manual web application testing and Tenable for automated scanning.
+Cloud Security: Experienced with Trend Micro Cloud Security for safeguarding cloud server environments.
+Security Tools: Skilled in Nmap, Acunetix, and Nessus for comprehensive vulnerability assessment and penetration testing.
 
-- 🔭 I’m currently working on Cloud Security Project 
-- 🌱 I’m currently learning Cloud Security Flow 
-
-https://emotionbadge.onrender.com/emotion/kuldipgajjar/<emotion>
+🛠️ Programming Languages:
+Proficient: PowerShell, Git, Bash, Python.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kuldipgajjar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/gajjarkuldip)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kuldipgajjar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/gajjar_kuldip//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/_Gajjar_Kuldip)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://gajjarkuldip.azurewebsites.net/)  
 
