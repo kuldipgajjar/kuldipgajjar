@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Kuldip Suthar. Here a little about me :)
 #### Cloud Security Engineer In Sarjen System Pvt. Ltd. 
 
-![Cloud Security Engineer In Sarjen System Pvt. Ltd. ](https://svg-banners.vercel.app/api?type=glitch&text1=KULDIP%20%20SUTHAR%20🐱‍👤%20%20&width=900&height=400)
+![Cloud Security Engineer In Sarjen System Pvt. Ltd. ](https://svg-banners.vercel.app/api?type=glitch&text1=KULDIP%20%20SUTHAR%20%20&width=900&height=400)
 
 I'm a DevSecOps professional with a strong background in securing cloud and software environments. My expertise spans across various tools and technologies to ensure robust security measures.
 
